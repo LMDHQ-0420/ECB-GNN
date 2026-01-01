@@ -1,0 +1,9 @@
+dlib==19.24.6
+ecole==0.8.1
+numpy==1.23.5
+pyltr==0.2.6
+pyscipopt==5.5.0
+scikit-learn==1.8.0
+torch==2.5.1
+torch_geometric==2.7.0
+tqdm==4.67.1
